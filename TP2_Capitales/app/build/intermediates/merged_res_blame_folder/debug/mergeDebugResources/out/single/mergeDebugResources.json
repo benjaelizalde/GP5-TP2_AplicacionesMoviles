@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\drawable_radio_button_android_unchecked.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\drawable\\radio_button_android_unchecked.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\drawable_radio_button_android_checked.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\drawable\\radio_button_android_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.grupo5.app2_capitales.app-debug-37:/layout_activity_modificar_poblacion.xml.flat",
+        "source": "com.grupo5.app2_capitales.app-main-39:/layout/activity_modificar_poblacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\layout_activity_cargar_ciudad.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\layout\\activity_cargar_ciudad.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\drawable_text_color_selector.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\drawable\\text_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\layout_activity_consultar_ciudad.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\layout\\activity_consultar_ciudad.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\drawable_back.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\drawable_logo_app.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\drawable\\logo_app.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\layout_activity_borrar_ciudades_por_pais.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\layout\\activity_borrar_ciudades_por_pais.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\layout_activity_modificar_poblacion.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\layout\\activity_modificar_poblacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\drawable_outlined_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\drawable\\outlined_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\drawable_radio_button_ios_unchecked.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\drawable\\radio_button_ios_unchecked.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-pngs-33:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\drawable_radio_button_ios_checked.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\drawable\\radio_button_ios_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\drawable_radio_button_selector.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\drawable\\radio_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\layout_activity_borrar_ciudad.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\layout\\activity_borrar_ciudad.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\drawable_logout.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-debug-37:\\drawable_radio_button_selector_ios.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_capitales.app-main-39:\\drawable\\radio_button_selector_ios.xml"
+    }
+]

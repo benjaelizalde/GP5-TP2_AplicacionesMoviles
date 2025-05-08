@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp">
+
+    <Button
+        android:id="@+id/btnCargar"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="1. Cargar ciudad capital"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <Button
+        android:id="@+id/btnConsultar"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="2. Consultar ciudad por nombre"
+        android:layout_marginTop="12dp"
+        app:layout_constraintTop_toBottomOf="@id/btnCargar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <Button
+        android:id="@+id/btnBorrarCiudad"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="3. Borrar ciudad por nombre"
+        android:layout_marginTop="12dp"
+        app:layout_constraintTop_toBottomOf="@id/btnConsultar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <Button
+        android:id="@+id/btnBorrarPais"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="4. Borrar ciudades de un país"
+        android:layout_marginTop="12dp"
+        app:layout_constraintTop_toBottomOf="@id/btnBorrarCiudad"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <Button
+        android:id="@+id/btnModificarPoblacion"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="5. Modificar población de una ciudad"
+        android:layout_marginTop="12dp"
+        app:layout_constraintTop_toBottomOf="@id/btnBorrarPais"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

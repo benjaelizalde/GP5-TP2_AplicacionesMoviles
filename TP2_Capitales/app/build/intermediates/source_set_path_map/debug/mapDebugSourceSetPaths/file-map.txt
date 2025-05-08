@@ -1,0 +1,40 @@
+com.grupo5.app2_capitales.app-transition-1.5.0-0 C:\Users\User\.gradle\caches\8.11.1\transforms\070f95a0bbc4a58ad3e3a8d2308226f9\transformed\transition-1.5.0\res
+com.grupo5.app2_capitales.app-startup-runtime-1.1.1-1 C:\Users\User\.gradle\caches\8.11.1\transforms\09222fd1fe54c30e26583254c8178d79\transformed\startup-runtime-1.1.1\res
+com.grupo5.app2_capitales.app-lifecycle-viewmodel-savedstate-2.6.2-2 C:\Users\User\.gradle\caches\8.11.1\transforms\0bba06a246d0b376a920119bf7e8dec6\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.grupo5.app2_capitales.app-room-runtime-2.6.1-3 C:\Users\User\.gradle\caches\8.11.1\transforms\1c8a15b0a478a83d6a2ee4842c5ea9a4\transformed\room-runtime-2.6.1\res
+com.grupo5.app2_capitales.app-material-1.12.0-4 C:\Users\User\.gradle\caches\8.11.1\transforms\1e7baab381f9c6121c5f3d91f81fc34d\transformed\material-1.12.0\res
+com.grupo5.app2_capitales.app-recyclerview-1.1.0-5 C:\Users\User\.gradle\caches\8.11.1\transforms\288db551cb20ecf298cb0b9603a1da1a\transformed\recyclerview-1.1.0\res
+com.grupo5.app2_capitales.app-sqlite-framework-2.4.0-6 C:\Users\User\.gradle\caches\8.11.1\transforms\2fb452a60018cc2059eaa2f335005fd4\transformed\sqlite-framework-2.4.0\res
+com.grupo5.app2_capitales.app-appcompat-resources-1.7.0-7 C:\Users\User\.gradle\caches\8.11.1\transforms\3b50fb77a4c1a705c00a5bd423a5b287\transformed\appcompat-resources-1.7.0\res
+com.grupo5.app2_capitales.app-emoji2-1.3.0-8 C:\Users\User\.gradle\caches\8.11.1\transforms\4c4d3a5b25e248dc15eb5ca44db92906\transformed\emoji2-1.3.0\res
+com.grupo5.app2_capitales.app-lifecycle-livedata-core-2.6.2-9 C:\Users\User\.gradle\caches\8.11.1\transforms\4df88ce350ee9c91f063b9cc143f7fcc\transformed\lifecycle-livedata-core-2.6.2\res
+com.grupo5.app2_capitales.app-core-1.16.0-10 C:\Users\User\.gradle\caches\8.11.1\transforms\539970959c9f806e1f6b884dc6bee0fa\transformed\core-1.16.0\res
+com.grupo5.app2_capitales.app-lifecycle-viewmodel-2.6.2-11 C:\Users\User\.gradle\caches\8.11.1\transforms\5f23a12c79c9366cf8056ca862d2407d\transformed\lifecycle-viewmodel-2.6.2\res
+com.grupo5.app2_capitales.app-tracing-1.2.0-12 C:\Users\User\.gradle\caches\8.11.1\transforms\617cc5de1aa0fc01b57e1e1d815e39c6\transformed\tracing-1.2.0\res
+com.grupo5.app2_capitales.app-appcompat-1.7.0-13 C:\Users\User\.gradle\caches\8.11.1\transforms\717cbcf33efcf22a811c3b2a0aa93fbc\transformed\appcompat-1.7.0\res
+com.grupo5.app2_capitales.app-coordinatorlayout-1.1.0-14 C:\Users\User\.gradle\caches\8.11.1\transforms\73bb9a75bb5988c92b8756d5a57d9e76\transformed\coordinatorlayout-1.1.0\res
+com.grupo5.app2_capitales.app-sqlite-2.4.0-15 C:\Users\User\.gradle\caches\8.11.1\transforms\77b2bd4c613fe4fe2cd39c9665da9396\transformed\sqlite-2.4.0\res
+com.grupo5.app2_capitales.app-viewpager2-1.0.0-16 C:\Users\User\.gradle\caches\8.11.1\transforms\797e8bdd2570905e28607ff61590d02f\transformed\viewpager2-1.0.0\res
+com.grupo5.app2_capitales.app-fragment-1.5.4-17 C:\Users\User\.gradle\caches\8.11.1\transforms\80008d24da22531344d4a0ebd954111f\transformed\fragment-1.5.4\res
+com.grupo5.app2_capitales.app-savedstate-1.2.1-18 C:\Users\User\.gradle\caches\8.11.1\transforms\8de88bce40949ce058679b625ef60d58\transformed\savedstate-1.2.1\res
+com.grupo5.app2_capitales.app-constraintlayout-2.1.4-19 C:\Users\User\.gradle\caches\8.11.1\transforms\9d8ea7a4557eb9815492cbeb99bcedeb\transformed\constraintlayout-2.1.4\res
+com.grupo5.app2_capitales.app-drawerlayout-1.1.1-20 C:\Users\User\.gradle\caches\8.11.1\transforms\a0a83a69b28d95d46ff8bb6a671e8c09\transformed\drawerlayout-1.1.1\res
+com.grupo5.app2_capitales.app-core-runtime-2.2.0-21 C:\Users\User\.gradle\caches\8.11.1\transforms\a7aef2907dcb5f14baa051fb1a708fb4\transformed\core-runtime-2.2.0\res
+com.grupo5.app2_capitales.app-room-ktx-2.6.1-22 C:\Users\User\.gradle\caches\8.11.1\transforms\b2fdf249cb91536b694ad520fb3e07ec\transformed\room-ktx-2.6.1\res
+com.grupo5.app2_capitales.app-lifecycle-runtime-2.6.2-23 C:\Users\User\.gradle\caches\8.11.1\transforms\b494858fe13d9da13f9d808bbe65c628\transformed\lifecycle-runtime-2.6.2\res
+com.grupo5.app2_capitales.app-lifecycle-process-2.6.2-24 C:\Users\User\.gradle\caches\8.11.1\transforms\b5d4c1711389636dae655b8a262f9181\transformed\lifecycle-process-2.6.2\res
+com.grupo5.app2_capitales.app-core-ktx-1.16.0-25 C:\Users\User\.gradle\caches\8.11.1\transforms\c263d0513edaaca06ca880430536b851\transformed\core-ktx-1.16.0\res
+com.grupo5.app2_capitales.app-profileinstaller-1.4.0-26 C:\Users\User\.gradle\caches\8.11.1\transforms\dcd29b89fc1a8abc8813ed6a30b93126\transformed\profileinstaller-1.4.0\res
+com.grupo5.app2_capitales.app-lifecycle-livedata-2.6.2-27 C:\Users\User\.gradle\caches\8.11.1\transforms\f39ba10b1c5c7bdcc97e6de110ad53d6\transformed\lifecycle-livedata-2.6.2\res
+com.grupo5.app2_capitales.app-cardview-1.0.0-28 C:\Users\User\.gradle\caches\8.11.1\transforms\f784784995d20d59d049f9ca11e86bc1\transformed\cardview-1.0.0\res
+com.grupo5.app2_capitales.app-emoji2-views-helper-1.3.0-29 C:\Users\User\.gradle\caches\8.11.1\transforms\f7ea6ffa661315a81e3cf0a9f1e3d2b8\transformed\emoji2-views-helper-1.3.0\res
+com.grupo5.app2_capitales.app-activity-1.10.1-30 C:\Users\User\.gradle\caches\8.11.1\transforms\f7f00b0077917902c843489a47de1fe0\transformed\activity-1.10.1\res
+com.grupo5.app2_capitales.app-core-viewtree-1.0.0-31 C:\Users\User\.gradle\caches\8.11.1\transforms\fb443153280dcc7ad6ae27f54280c59f\transformed\core-viewtree-1.0.0\res
+com.grupo5.app2_capitales.app-annotation-experimental-1.4.1-32 C:\Users\User\.gradle\caches\8.11.1\transforms\ff52d27e44448338ad00a2fa66d42a47\transformed\annotation-experimental-1.4.1\res
+com.grupo5.app2_capitales.app-pngs-33 C:\Users\User\OneDrive - UTN FRLP\Facultad\4to Año\Aplicaciones Moviles\TP2\Proyecto\TP2_Capitales\app\build\generated\res\pngs\debug
+com.grupo5.app2_capitales.app-resValues-34 C:\Users\User\OneDrive - UTN FRLP\Facultad\4to Año\Aplicaciones Moviles\TP2\Proyecto\TP2_Capitales\app\build\generated\res\resValues\debug
+com.grupo5.app2_capitales.app-packageDebugResources-35 C:\Users\User\OneDrive - UTN FRLP\Facultad\4to Año\Aplicaciones Moviles\TP2\Proyecto\TP2_Capitales\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.grupo5.app2_capitales.app-packageDebugResources-36 C:\Users\User\OneDrive - UTN FRLP\Facultad\4to Año\Aplicaciones Moviles\TP2\Proyecto\TP2_Capitales\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.grupo5.app2_capitales.app-debug-37 C:\Users\User\OneDrive - UTN FRLP\Facultad\4to Año\Aplicaciones Moviles\TP2\Proyecto\TP2_Capitales\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.grupo5.app2_capitales.app-debug-38 C:\Users\User\OneDrive - UTN FRLP\Facultad\4to Año\Aplicaciones Moviles\TP2\Proyecto\TP2_Capitales\app\src\debug\res
+com.grupo5.app2_capitales.app-main-39 C:\Users\User\OneDrive - UTN FRLP\Facultad\4to Año\Aplicaciones Moviles\TP2\Proyecto\TP2_Capitales\app\src\main\res

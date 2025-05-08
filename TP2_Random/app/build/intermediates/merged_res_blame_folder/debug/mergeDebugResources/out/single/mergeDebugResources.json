@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_logo_android.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\logo_android.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_back.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_radio_button_android_unchecked.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\radio_button_android_unchecked.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-pngs-29:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_radio_button_selector.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\radio_button_selector.xml"
+    },
+    {
+        "merged": "com.grupo5.app2_random.app-debug-33:/layout_activity_score.xml.flat",
+        "source": "com.grupo5.app2_random.app-main-35:/layout/activity_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_outlined_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\outlined_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_logo_github.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\logo_github.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_logo_facebook.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\logo_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_logo_ios.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\logo_ios.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_logo_app.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\logo_app.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_logout.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_radio_button_ios_unchecked.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\radio_button_ios_unchecked.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_radio_button_selector_ios.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\radio_button_selector_ios.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_logo_google.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\logo_google.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_logo_x.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\logo_x.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_radio_button_ios_checked.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\radio_button_ios_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_text_color_selector.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\text_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\layout_activity_score.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\layout\\activity_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_radio_button_android_checked.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\radio_button_android_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    }
+]
