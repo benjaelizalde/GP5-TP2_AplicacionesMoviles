@@ -6,12 +6,14 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import com.grupo5.app2_capitales.data.AppDatabase
 import kotlinx.coroutines.launch
+import android.view.View
 
 class ConsultarCiudadActivity : AppCompatActivity() {
 
     private lateinit var etNombreCiudad: EditText
     private lateinit var btnBuscar: Button
     private lateinit var tvResultado: TextView
+    private lateinit var ivBack: ImageView
 
     private lateinit var db: AppDatabase
 
@@ -22,8 +24,13 @@ class ConsultarCiudadActivity : AppCompatActivity() {
         etNombreCiudad = findViewById(R.id.etNombreCiudad)
         btnBuscar = findViewById(R.id.btnBuscar)
         tvResultado = findViewById(R.id.tvResultado)
+        ivBack = findViewById(R.id.ivBack)
 
         db = AppDatabase.getDatabase(this)
+
+        ivBack.setOnClickListener {
+            finish()
+        }
 
         btnBuscar.setOnClickListener {
             val nombreCiudad = etNombreCiudad.text.toString().trim()
@@ -46,6 +53,8 @@ class ConsultarCiudadActivity : AppCompatActivity() {
             } else {
                 tvResultado.text = "Ingresá el nombre de una ciudad."
             }
+            tvResultado.visibility = View.VISIBLE
+
         }
     }
 }
