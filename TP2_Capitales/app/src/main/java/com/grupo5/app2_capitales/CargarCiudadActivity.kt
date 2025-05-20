@@ -7,6 +7,7 @@ import androidx.lifecycle.lifecycleScope
 import com.grupo5.app2_capitales.data.AppDatabase
 import com.grupo5.app2_capitales.data.Ciudad
 import kotlinx.coroutines.launch
+import android.view.View
 
 class CargarCiudadActivity : AppCompatActivity() {
 
@@ -15,6 +16,7 @@ class CargarCiudadActivity : AppCompatActivity() {
     private lateinit var etPoblacion: EditText
     private lateinit var btnAgregar: Button
     private lateinit var tvResultado: TextView
+    private lateinit var ivBack: ImageView
 
     private lateinit var db: AppDatabase
 
@@ -27,9 +29,13 @@ class CargarCiudadActivity : AppCompatActivity() {
         etPoblacion = findViewById(R.id.etPoblacion)
         btnAgregar = findViewById(R.id.btnAgregar)
         tvResultado = findViewById(R.id.tvResultado)
+        ivBack = findViewById(R.id.ivBack)
 
         db = AppDatabase.getDatabase(this)
 
+        ivBack.setOnClickListener {
+            finish()
+        }
         btnAgregar.setOnClickListener {
             val nombrePais = etNombrePais.text.toString().trim()
             val nombreCiudad = etNombreCiudad.text.toString().trim()
@@ -50,5 +56,6 @@ class CargarCiudadActivity : AppCompatActivity() {
 
     private fun mostrarResultado(mensaje: String) {
         tvResultado.text = mensaje
+        tvResultado.visibility = View.VISIBLE
     }
 }
