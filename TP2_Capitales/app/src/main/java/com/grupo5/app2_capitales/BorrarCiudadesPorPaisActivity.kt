@@ -6,12 +6,14 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import com.grupo5.app2_capitales.data.AppDatabase
 import kotlinx.coroutines.launch
+import android.view.View
 
 class BorrarCiudadesPorPaisActivity : AppCompatActivity() {
 
     private lateinit var etPaisABorrar: EditText
     private lateinit var btnBorrarCiudades: Button
     private lateinit var tvResultadoBorrado: TextView
+    private lateinit var ivBack: ImageView
     private lateinit var db: AppDatabase
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -21,7 +23,12 @@ class BorrarCiudadesPorPaisActivity : AppCompatActivity() {
         etPaisABorrar = findViewById(R.id.etPaisABorrar)
         btnBorrarCiudades = findViewById(R.id.btnBorrarCiudades)
         tvResultadoBorrado = findViewById(R.id.tvResultadoBorrado)
+        ivBack = findViewById(R.id.ivBack)
         db = AppDatabase.getDatabase(this)
+
+        ivBack.setOnClickListener {
+            finish()
+        }
 
         btnBorrarCiudades.setOnClickListener {
             val pais = etPaisABorrar.text.toString().trim()
@@ -39,5 +46,6 @@ class BorrarCiudadesPorPaisActivity : AppCompatActivity() {
 
     private fun mostrarResultado(mensaje: String) {
         tvResultadoBorrado.text = mensaje
+        tvResultadoBorrado.visibility = View.VISIBLE
     }
 }
