@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var tvMensaje: TextView
     private lateinit var tvPuntaje: TextView
     private lateinit var tvRecord: TextView
+    private lateinit var btnVerReglas: Button
 
     private var numeroSecreto = 0
     private var score = 0
@@ -27,6 +28,7 @@ class MainActivity : AppCompatActivity() {
         tvMensaje = findViewById(R.id.tvMensaje)
         tvPuntaje = findViewById(R.id.tvPuntaje)
         tvRecord = findViewById(R.id.tvRecord)
+        btnVerReglas = findViewById(R.id.btnVerReglas)
 
         val prefs = getSharedPreferences("juego", MODE_PRIVATE)
         highScore = prefs.getInt("highScore", 0)
@@ -72,6 +74,11 @@ class MainActivity : AppCompatActivity() {
             }
 
             etNumero.text.clear()
+
+            btnVerReglas.setOnClickListener {
+                val intent = Intent(this, RulesActivity::class.java)
+                startActivity(intent)
+            }
         }
     }
 }
