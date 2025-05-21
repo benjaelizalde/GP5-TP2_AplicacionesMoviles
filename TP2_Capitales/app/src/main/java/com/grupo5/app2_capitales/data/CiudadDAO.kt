@@ -14,6 +14,9 @@ interface CiudadDao {
     @Query("DELETE FROM ciudades WHERE nombreCiudad = :nombre")
     suspend fun borrarPorNombre(nombre: String)
 
+    @Query("SELECT COUNT(*) FROM ciudades WHERE nombrePais = :pais")
+    suspend fun contarCiudadesPorPais(pais: String): Int
+
     @Query("DELETE FROM ciudades WHERE nombrePais = :pais")
     suspend fun borrarPorPais(pais: String)
 
