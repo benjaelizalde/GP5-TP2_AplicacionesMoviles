@@ -2996,7 +2996,6 @@ drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
 drawable azar
-drawable back
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -3031,14 +3030,6 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_search_black_24
 drawable indeterminate_static
-drawable logo_android
-drawable logo_app
-drawable logo_facebook
-drawable logo_github
-drawable logo_google
-drawable logo_ios
-drawable logo_x
-drawable logout
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
 drawable m3_bottom_sheet_drag_handle
@@ -3112,12 +3103,6 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable outlined_button
-drawable radio_button_android_checked
-drawable radio_button_android_unchecked
-drawable radio_button_ios_checked
-drawable radio_button_ios_unchecked
-drawable radio_button_selector
-drawable radio_button_selector_ios
 drawable test_level_drawable
 drawable text_color_selector
 drawable tooltip_frame_dark
