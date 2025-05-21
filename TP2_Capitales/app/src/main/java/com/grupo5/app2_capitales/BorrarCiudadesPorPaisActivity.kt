@@ -31,12 +31,19 @@ class BorrarCiudadesPorPaisActivity : AppCompatActivity() {
         }
 
         btnBorrarCiudades.setOnClickListener {
+            btnBorrarCiudades.animarVista()
             val pais = etPaisABorrar.text.toString().trim()
 
             if (pais.isNotEmpty()) {
                 lifecycleScope.launch {
-                    db.ciudadDao().borrarPorPais(pais)
-                    mostrarResultado("Ciudades de $pais eliminadas correctamente.")
+                    val ciudadesPais= db.ciudadDao().contarCiudadesPorPais(pais)
+                    if (ciudadesPais != 0) {
+                        db.ciudadDao().borrarPorPais(pais)
+                        mostrarResultado("Ciudades de $pais eliminadas correctamente.")
+                    } else {
+                        mostrarResultado("El pais no existe o no tiene ciudades cargadas.")
+                    }
+
                 }
             } else {
                 mostrarResultado("Ingresá el nombre del país.")

@@ -37,6 +37,7 @@ class CargarCiudadActivity : AppCompatActivity() {
             finish()
         }
         btnAgregar.setOnClickListener {
+            btnAgregar.animarVista()
             val nombrePais = etNombrePais.text.toString().trim()
             val nombreCiudad = etNombreCiudad.text.toString().trim()
             val poblacion = etPoblacion.text.toString().trim().toIntOrNull()
