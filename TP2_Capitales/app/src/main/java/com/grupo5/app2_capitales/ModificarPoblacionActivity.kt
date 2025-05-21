@@ -34,13 +34,19 @@ class ModificarPoblacionActivity : AppCompatActivity() {
 
 
         btnModificarPoblacion.setOnClickListener {
+            btnModificarPoblacion.animarVista()
             val nombreCiudad = etCiudadAModificar.text.toString().trim()
             val nuevaPoblacion = etNuevaPoblacion.text.toString().trim().toIntOrNull()
 
             if (nombreCiudad.isNotEmpty() && nuevaPoblacion != null) {
                 lifecycleScope.launch {
-                    db.ciudadDao().actualizarPoblacion(nombreCiudad, nuevaPoblacion)
-                    mostrarResultado("Población de $nombreCiudad modificada correctamente.")
+                    val ciudad = db.ciudadDao().obtenerPorNombre(nombreCiudad)
+                    if (ciudad != null) {
+                        db.ciudadDao().actualizarPoblacion(nombreCiudad, nuevaPoblacion)
+                        mostrarResultado("Población de $nombreCiudad modificada correctamente.")
+                    } else {
+                        mostrarResultado("No se encontró ninguna ciudad con ese nombre.")
+                    }
                 }
             } else {
                 mostrarResultado("Ingresá el nombre de la ciudad y la nueva población.")

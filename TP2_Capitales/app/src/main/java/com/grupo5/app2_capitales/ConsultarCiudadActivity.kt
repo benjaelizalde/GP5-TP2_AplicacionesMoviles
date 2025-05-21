@@ -33,6 +33,7 @@ class ConsultarCiudadActivity : AppCompatActivity() {
         }
 
         btnBuscar.setOnClickListener {
+            btnBuscar.animarVista()
             val nombreCiudad = etNombreCiudad.text.toString().trim()
 
             if (nombreCiudad.isNotEmpty()) {

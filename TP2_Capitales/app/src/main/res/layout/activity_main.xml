@@ -8,9 +8,9 @@
 
     <ImageView
         android:id="@+id/logoApp"
-        android:layout_width="120dp"
-        android:layout_height="120dp"
-        android:layout_marginBottom="30dp"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_marginBottom="32dp"
         android:contentDescription="Logo de la app"
         android:src="@drawable/logo_app"
         app:layout_constraintTop_toTopOf="parent"
