@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
     private var score = 0
     private var highScore = 0
     private var intentosErrados = 0
+    private var newHighScore = false
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -36,10 +37,16 @@ class MainActivity : AppCompatActivity() {
         tvRecord.text = "Mejor puntaje: $highScore"
         tvPuntaje.text = "Puntaje actual: $score"
 
-        //numeroSecreto = (1..5).random()
-        numeroSecreto = 3
+        numeroSecreto = (1..5).random()
+
+        btnVerReglas.setOnClickListener {
+            btnVerReglas.animarVista()
+            val intent = Intent(this, RulesActivity::class.java)
+            startActivity(intent)
+        }
 
         btnAdivinar.setOnClickListener {
+            btnAdivinar.animarVista()
             val numeroIngresado = etNumero.text.toString().toIntOrNull()
             if (numeroIngresado == null || numeroIngresado !in 1..5) {
                 tvMensaje.text = "Por favor ingresá un número del 1 al 5"
@@ -49,12 +56,12 @@ class MainActivity : AppCompatActivity() {
             if (numeroIngresado == numeroSecreto) {
                 score += 10
                 tvMensaje.text = "¡Correcto! Número nuevo..."
-                //numeroSecreto = (1..5).random()
-                numeroSecreto = 3
+                numeroSecreto = (1..5).random()
                 intentosErrados = 0
             } else {
                 intentosErrados++
                 tvMensaje.text = "Fallaste. Intento $intentosErrados de 5"
+                numeroSecreto = (1..5).random()
             }
 
             tvPuntaje.text = "Puntaje actual: $score"
@@ -63,13 +70,14 @@ class MainActivity : AppCompatActivity() {
                 highScore = score
                 prefs.edit().putInt("highScore", highScore).apply()
                 tvRecord.text = "🎉 Nuevo récord: $highScore"
+                newHighScore = true
             }
 
             if (intentosErrados >= 5) {
                 val intent = Intent(this, ScoreActivity::class.java)
                 intent.putExtra("score", score)
                 intent.putExtra("highScore", highScore)
-                intent.putExtra("nuevoHighScore", score >= highScore)
+                intent.putExtra("nuevoHighScore", newHighScore)
                 startActivity(intent)
             }
 

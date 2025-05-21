@@ -8,6 +8,14 @@
         "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\back.png"
     },
     {
+        "merged": "com.grupo5.app2_random.app-debug-33:/layout_activity_rules.xml.flat",
+        "source": "com.grupo5.app2_random.app-main-35:/layout/activity_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\layout_activity_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\layout\\activity_rules.xml"
+    },
+    {
         "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_radio_button_android_unchecked.xml.flat",
         "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\radio_button_android_unchecked.xml"
     },
@@ -28,16 +36,16 @@
         "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\xml\\data_extraction_rules.xml"
     },
     {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_azar.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\azar.png"
+    },
+    {
         "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
         "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
     },
     {
         "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_radio_button_selector.xml.flat",
         "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\radio_button_selector.xml"
-    },
-    {
-        "merged": "com.grupo5.app2_random.app-debug-33:/layout_activity_score.xml.flat",
-        "source": "com.grupo5.app2_random.app-main-35:/layout/activity_score.xml"
     },
     {
         "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_outlined_button.xml.flat",
@@ -148,10 +156,6 @@
         "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\layout_activity_welcome.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\layout\\activity_welcome.xml"
-    },
-    {
         "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_text_color_selector.xml.flat",
         "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\text_color_selector.xml"
     },
@@ -160,11 +164,11 @@
         "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\layout\\activity_score.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_radio_button_android_checked.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\radio_button_android_checked.xml"
-    },
-    {
         "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-debug-33:\\drawable_radio_button_android_checked.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.11.1\\com.grupo5.app2_random.app-main-35:\\drawable\\radio_button_android_checked.xml"
     }
 ]

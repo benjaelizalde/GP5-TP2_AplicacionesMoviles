@@ -9,7 +9,7 @@
     <color name="colorSecondary">#0A84FF</color>
     <color name="colorSecondaryVariant">#0060DF</color>
     <color name="ic_launcher_background">#FFFFFF</color>
-    <string name="app_name">App_Trabajo1</string>
+    <string name="app_name">App Random</string>
     <style name="Theme.App_Random" parent="Theme.MaterialComponents.Light.NoActionBar">
         
         <item name="colorPrimary">@color/colorPrimary</item>

@@ -27,6 +27,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.App_Random" >
+        <activity android:name="com.grupo5.app2_random.RulesActivity" />
         <activity
             android:name="com.grupo5.app2_random.ScoreActivity"
             android:exported="false" />
