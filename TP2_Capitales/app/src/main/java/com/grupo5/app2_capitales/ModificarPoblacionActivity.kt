@@ -34,6 +34,7 @@ class ModificarPoblacionActivity : AppCompatActivity() {
 
 
         btnModificarPoblacion.setOnClickListener {
+            btnModificarPoblacion.animarVista()
             val nombreCiudad = etCiudadAModificar.text.toString().trim()
             val nuevaPoblacion = etNuevaPoblacion.text.toString().trim().toIntOrNull()
 

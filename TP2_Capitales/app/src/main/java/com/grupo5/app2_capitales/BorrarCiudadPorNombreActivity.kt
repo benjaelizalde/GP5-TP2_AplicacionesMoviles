@@ -31,6 +31,7 @@ class BorrarCiudadPorNombreActivity : AppCompatActivity() {
         }
 
         btnBorrarCiudad.setOnClickListener {
+            btnBorrarCiudad.animarVista()
             val nombreCiudad = etCiudadABorrar.text.toString().trim()
 
             if (nombreCiudad.isNotEmpty()) {

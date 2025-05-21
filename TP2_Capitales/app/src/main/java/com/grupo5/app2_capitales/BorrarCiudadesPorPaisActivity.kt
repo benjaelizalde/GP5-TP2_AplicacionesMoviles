@@ -31,6 +31,7 @@ class BorrarCiudadesPorPaisActivity : AppCompatActivity() {
         }
 
         btnBorrarCiudades.setOnClickListener {
+            btnBorrarCiudades.animarVista()
             val pais = etPaisABorrar.text.toString().trim()
 
             if (pais.isNotEmpty()) {
